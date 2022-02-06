@@ -1,8 +1,10 @@
-package com.mark.shopping;
+package com.mark.shopping.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.mark.shopping.R;
 
 public class MainActivity extends AppCompatActivity {
 
